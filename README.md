@@ -3,7 +3,7 @@ I’m currently learning Swift
 👩🏻‍🎓 Computer Technology at Gelisim University  
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [efedavrann@gmail.com](mailto:efedavrann@gmail.com)
-* * 🧠  I'm learning Swift
+* 🧠  I'm learning Swift
 
 <a href="https://www.github.com/Efedavran" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Efedavran?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 ### Skills  
